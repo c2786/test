@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">teamprofile</string>
+    <string name="app_name">Team Profile</string>
+    <string name="group_profiles">Group Profiles</string>
 </resources>
