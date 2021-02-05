@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity
     /*
     * Todo
     *  - everyone of us have to create one separate activity(profile page)
-    *  -
+    *  - main activity contains button for each of you to develop functions that leads to your own profile page
     * */
     @Override
     protected void onCreate(Bundle savedInstanceState)

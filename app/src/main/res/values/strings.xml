@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Team Profile</string>
-    <string name="group_profiles">Group Profiles</string>
+    <string name="group_profiles">Team N Profiles</string>
     <string name="to_tianyi_zhou_s_page">To Tianyi Zhou\'s Page</string>
     <string name="this_is_my_introduction">Tianyi Zhou</string>
     <string name="my_picture">my picture</string>
     <string name="description">description</string>
+    <string name="lab_3_team_profile_assignment_for_comp2160">Lab 3 team profile assignment for COMP2160</string>
 </resources>
