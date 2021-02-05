@@ -2,4 +2,6 @@
     <string name="app_name">Team Profile</string>
     <string name="group_profiles">Group Profiles</string>
     <string name="to_tianyi_zhou_s_page">To Tianyi Zhou\'s Page</string>
+    <string name="this_is_my_introduction">Tianyi Zhou</string>
+    <string name="my_picture">my picture</string>
 </resources>
