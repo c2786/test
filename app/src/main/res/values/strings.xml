@@ -6,4 +6,8 @@
     <string name="my_picture">my picture</string>
     <string name="description">TRU CS student, I am a huge fun of android developing."\n""\n"Since this repo is going to the public, I prefer not to put a portrait.</string>
     <string name="lab_3_team_profile_assignment_for_comp2160">Lab 3 team profile assignment for COMP2160</string>
+    <string name="to_ssu_ting_hung_s_page">To Ssu-Ting Hung\'s Page</string>
+    <string name="hung_introduction">Ssu-Ting Hung</string>
+    <string name="hung_description">TRU CS student, I have two cats."\n""\n"Cats are always right!</string>
+    <string name="hung_cat_image">hung_cat_image</string>
 </resources>
